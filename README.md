@@ -1,1 +1,1 @@
-# MiniProjects
+# Calculator for JAVA BASICS.
